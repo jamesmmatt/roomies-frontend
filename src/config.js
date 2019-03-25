@@ -1,0 +1,1 @@
+export const ROOT_URL = 'https://capstone-roomies-be.herokuapp.com/';
