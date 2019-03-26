@@ -1,6 +1,6 @@
 .chat-tab {
     display: grid;
-    grid-template-rows: [messages-s] 55rem [messages-e text-s] 5rem [text-e];
+    grid-template-rows: [messages-s] 45rem [messages-e text-s] 5rem [text-e];
     grid-template-columns: 1fr;
 
     &__messages {
